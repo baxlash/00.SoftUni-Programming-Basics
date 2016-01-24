@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="03._Numbers_As_Day_Of_Week/NumbersAsDayOfWeek.cs">
+    <Files>
+      <File FileName="EX6._Conditional_Statements/BiggestOfThree.cs" Line="7" Column="1" />
+      <File FileName="02._Sign_Of_Product/SignOfProduct.cs" Line="32" Column="2" />
+      <File FileName="03._Numbers_As_Day_Of_Week/NumbersAsDayOfWeek.cs" Line="29" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,6 @@
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\HW 4 - Console IO\Falling Rocks\bin\Debug\Falling Rocks.exe.config
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\HW 4 - Console IO\Falling Rocks\bin\Debug\Falling Rocks.exe
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\HW 4 - Console IO\Falling Rocks\bin\Debug\Falling Rocks.pdb
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\HW 4 - Console IO\Falling Rocks\obj\Debug\Falling Rocks.csprojResolveAssemblyReference.cache
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\HW 4 - Console IO\Falling Rocks\obj\Debug\Falling Rocks.exe
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\HW 4 - Console IO\Falling Rocks\obj\Debug\Falling Rocks.pdb

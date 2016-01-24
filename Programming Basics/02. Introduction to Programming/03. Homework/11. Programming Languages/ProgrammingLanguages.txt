@@ -1,0 +1,14 @@
+1. Java
+Java is is probably the most popular programming language, used for building server-side applications to video games and mobile apps. It's also the core foundation for developing Android apps, making it a favorite of many programmers. 
+
+2. Python
+Python is often heralded as the easiest programming language to learn, with its simple and straightforward syntax. Python has risen in popularity due to Google's investment in it over the past decade 
+
+3. JavaScript
+JavaScript (which has nothing in common with Java) is another favorite programming language because it's basically everywhere on the Web. JavaScript allows developers to add interactive elements to their website.
+
+4. PHP
+PHP is often used in conjunction with dynamic data-heavy websites and app development. It provides a ton of power and is the beating heart of monster sites like WordPress and Facebook. 
+
+5. Objective C
+Objective-C is the programming language behind iOS apps. Apple's new language Swift is rising in the ranks, but Objective-C is still the recommended starting point for those looking to craft Apple apps for iPhones and iPads.

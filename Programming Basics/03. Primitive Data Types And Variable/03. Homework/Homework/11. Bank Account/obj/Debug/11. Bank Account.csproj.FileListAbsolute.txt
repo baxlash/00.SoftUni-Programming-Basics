@@ -1,0 +1,5 @@
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\Homework\11. Bank Account\bin\Debug\_11.Bank_Account.exe.config
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\Homework\11. Bank Account\bin\Debug\_11.Bank_Account.exe
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\Homework\11. Bank Account\bin\Debug\_11.Bank_Account.pdb
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\Homework\11. Bank Account\obj\Debug\_11.Bank_Account.exe
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\Homework\11. Bank Account\obj\Debug\_11.Bank_Account.pdb

@@ -1,0 +1,5 @@
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\02. Exercises\DataTypesExercise\02. Float And Doubles\bin\Debug\_02.Float_And_Doubles.exe.config
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\02. Exercises\DataTypesExercise\02. Float And Doubles\bin\Debug\_02.Float_And_Doubles.exe
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\02. Exercises\DataTypesExercise\02. Float And Doubles\bin\Debug\_02.Float_And_Doubles.pdb
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\02. Exercises\DataTypesExercise\02. Float And Doubles\obj\Debug\_02.Float_And_Doubles.exe
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\02. Exercises\DataTypesExercise\02. Float And Doubles\obj\Debug\_02.Float_And_Doubles.pdb

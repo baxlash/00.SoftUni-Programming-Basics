@@ -1,0 +1,6 @@
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Test Projects\Hello, CSharp\Hello, CSharp\hello csharp\bin\Debug\hello csharp.exe.config
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Test Projects\Hello, CSharp\Hello, CSharp\hello csharp\bin\Debug\hello csharp.exe
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Test Projects\Hello, CSharp\Hello, CSharp\hello csharp\bin\Debug\hello csharp.pdb
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Test Projects\Hello, CSharp\Hello, CSharp\hello csharp\obj\Debug\hello csharp.csprojResolveAssemblyReference.cache
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Test Projects\Hello, CSharp\Hello, CSharp\hello csharp\obj\Debug\hello csharp.exe
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Test Projects\Hello, CSharp\Hello, CSharp\hello csharp\obj\Debug\hello csharp.pdb

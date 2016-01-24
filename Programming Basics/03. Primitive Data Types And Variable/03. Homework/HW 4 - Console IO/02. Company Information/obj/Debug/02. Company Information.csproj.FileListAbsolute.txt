@@ -1,0 +1,6 @@
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\HW 4 - Console IO\02. Company Information\bin\Debug\_02.Company_Information.exe.config
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\HW 4 - Console IO\02. Company Information\bin\Debug\_02.Company_Information.exe
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\HW 4 - Console IO\02. Company Information\bin\Debug\_02.Company_Information.pdb
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\HW 4 - Console IO\02. Company Information\obj\Debug\02. Company Information.csprojResolveAssemblyReference.cache
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\HW 4 - Console IO\02. Company Information\obj\Debug\_02.Company_Information.exe
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\HW 4 - Console IO\02. Company Information\obj\Debug\_02.Company_Information.pdb

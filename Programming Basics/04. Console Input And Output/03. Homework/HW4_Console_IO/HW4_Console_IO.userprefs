@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="05._Formating_Numbers/FormatingNumbers.cs">
+    <Files>
+      <File FileName="01._Sum_of_3_Numbers/SumOf3Numbers.cs" Line="1" Column="1" />
+      <File FileName="02._Print_Company_Information/PrintCompanyInformation.cs" Line="1" Column="1" />
+      <File FileName="03._Circle_Perimeter_And_Area/CirclePerimeterAndArea.cs" Line="1" Column="1" />
+      <File FileName="04._Number_Comparer/NumberComparer.cs" Line="1" Column="1" />
+      <File FileName="05._Formating_Numbers/FormatingNumbers.cs" Line="15" Column="46" />
+      <File FileName="06._Quadratic_Equation/QuadraticEquation.cs" Line="28" Column="31" />
+      <File FileName="07._Sum_of_5_Numbers/SumOfFiveNumbers.cs" Line="25" Column="1" />
+      <File FileName="08._Numbers_from_1_to_n/SumNumberFrom1ToN.cs" Line="1" Column="1" />
+      <File FileName="09._Fibonacci_Numbers/FibonacciNumbers.cs" Line="1" Column="1" />
+      <File FileName="10._Numbers_in_Interval_Dividable_by_Given_Number/NumbersInIntervalDividedByGivenNumber.cs" Line="16" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
