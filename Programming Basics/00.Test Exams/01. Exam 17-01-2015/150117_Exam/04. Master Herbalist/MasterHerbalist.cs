@@ -11,7 +11,7 @@ class MasterHerbalist
         while (currentInput != "Season Over")
         {
             int hours = 0;
-            //int herbs = 0;
+            int herbs = 0;
             int price = 0;
             currentInput = Console.ReadLine();
             string[] splited = currentInput.Split(' ');
@@ -28,10 +28,10 @@ class MasterHerbalist
                 }
 
                 Console.WriteLine(path[index]);
-               /* if (path[index] == 'H')
+                if (path[index] == 'H')
                 {
                     herbs++;
-                }*/
+                }
             }
 
         }
