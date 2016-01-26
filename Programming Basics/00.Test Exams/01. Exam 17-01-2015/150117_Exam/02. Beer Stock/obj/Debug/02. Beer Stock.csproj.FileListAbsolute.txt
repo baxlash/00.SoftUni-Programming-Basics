@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\SoftUni\Programming Basics\00.Test Exams\01. Exam 17-01-2015\150117_Exam\02. Beer Stock\bin\Debug\_02.Beer_Stock.exe.config
+C:\Users\Administrator\Documents\SoftUni\Programming Basics\00.Test Exams\01. Exam 17-01-2015\150117_Exam\02. Beer Stock\bin\Debug\_02.Beer_Stock.exe
+C:\Users\Administrator\Documents\SoftUni\Programming Basics\00.Test Exams\01. Exam 17-01-2015\150117_Exam\02. Beer Stock\bin\Debug\_02.Beer_Stock.pdb
+C:\Users\Administrator\Documents\SoftUni\Programming Basics\00.Test Exams\01. Exam 17-01-2015\150117_Exam\02. Beer Stock\obj\Debug\02. Beer Stock.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\SoftUni\Programming Basics\00.Test Exams\01. Exam 17-01-2015\150117_Exam\02. Beer Stock\obj\Debug\_02.Beer_Stock.exe
+C:\Users\Administrator\Documents\SoftUni\Programming Basics\00.Test Exams\01. Exam 17-01-2015\150117_Exam\02. Beer Stock\obj\Debug\_02.Beer_Stock.pdb

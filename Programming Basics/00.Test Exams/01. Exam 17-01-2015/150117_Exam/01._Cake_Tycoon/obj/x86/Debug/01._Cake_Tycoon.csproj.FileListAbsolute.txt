@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\SoftUni\Programming Basics\00.Test Exams\01. Exam 17-01-2015\150117_Exam\01._Cake_Tycoon\bin\Debug\01._Cake_Tycoon.exe
+C:\Users\Administrator\Documents\SoftUni\Programming Basics\00.Test Exams\01. Exam 17-01-2015\150117_Exam\01._Cake_Tycoon\bin\Debug\01._Cake_Tycoon.pdb
+C:\Users\Administrator\Documents\SoftUni\Programming Basics\00.Test Exams\01. Exam 17-01-2015\150117_Exam\01._Cake_Tycoon\obj\x86\Debug\01._Cake_Tycoon.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\SoftUni\Programming Basics\00.Test Exams\01. Exam 17-01-2015\150117_Exam\01._Cake_Tycoon\obj\x86\Debug\01._Cake_Tycoon.exe
+C:\Users\Administrator\Documents\SoftUni\Programming Basics\00.Test Exams\01. Exam 17-01-2015\150117_Exam\01._Cake_Tycoon\obj\x86\Debug\01._Cake_Tycoon.pdb
