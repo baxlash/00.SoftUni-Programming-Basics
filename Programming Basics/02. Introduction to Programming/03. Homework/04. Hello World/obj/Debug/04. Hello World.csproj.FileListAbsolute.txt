@@ -1,5 +1,0 @@
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\04. Hello World\bin\Debug\_04.Hello_World.exe.config
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\04. Hello World\bin\Debug\_04.Hello_World.exe
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\04. Hello World\bin\Debug\_04.Hello_World.pdb
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\04. Hello World\obj\Debug\_04.Hello_World.exe
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\04. Hello World\obj\Debug\_04.Hello_World.pdb

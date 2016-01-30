@@ -1,0 +1,5 @@
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\06. Print Numbers\bin\Debug\_06.Print_Numbers.exe.config
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\06. Print Numbers\bin\Debug\_06.Print_Numbers.exe
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\06. Print Numbers\bin\Debug\_06.Print_Numbers.pdb
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\06. Print Numbers\obj\Debug\_06.Print_Numbers.exe
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\06. Print Numbers\obj\Debug\_06.Print_Numbers.pdb

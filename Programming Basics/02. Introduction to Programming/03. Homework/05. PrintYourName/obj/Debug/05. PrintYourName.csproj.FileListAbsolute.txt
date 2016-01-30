@@ -1,5 +1,0 @@
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\05. PrintYourName\bin\Debug\_05.PrintYourName.exe.config
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\05. PrintYourName\bin\Debug\_05.PrintYourName.exe
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\05. PrintYourName\bin\Debug\_05.PrintYourName.pdb
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\05. PrintYourName\obj\Debug\_05.PrintYourName.exe
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\05. PrintYourName\obj\Debug\_05.PrintYourName.pdb

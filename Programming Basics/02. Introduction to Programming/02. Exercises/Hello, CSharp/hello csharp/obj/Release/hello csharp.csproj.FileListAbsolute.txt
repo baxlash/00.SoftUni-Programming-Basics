@@ -1,6 +1,0 @@
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Test Projects\Hello, CSharp\Hello, CSharp\hello csharp\bin\Release\hello csharp.exe.config
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Test Projects\Hello, CSharp\Hello, CSharp\hello csharp\bin\Release\hello csharp.exe
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Test Projects\Hello, CSharp\Hello, CSharp\hello csharp\bin\Release\hello csharp.pdb
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Test Projects\Hello, CSharp\Hello, CSharp\hello csharp\obj\Release\hello csharp.exe
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Test Projects\Hello, CSharp\Hello, CSharp\hello csharp\obj\Release\hello csharp.pdb
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Test Projects\Hello, CSharp\Hello, CSharp\hello csharp\obj\Release\hello csharp.csprojResolveAssemblyReference.cache

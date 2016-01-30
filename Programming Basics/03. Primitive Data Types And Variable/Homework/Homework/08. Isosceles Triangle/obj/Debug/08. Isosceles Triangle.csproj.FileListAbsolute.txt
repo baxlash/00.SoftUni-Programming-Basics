@@ -1,0 +1,5 @@
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\Homework\08. Isosceles Triangle\bin\Debug\_08.Isosceles_Triangle.exe.config
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\Homework\08. Isosceles Triangle\bin\Debug\_08.Isosceles_Triangle.exe
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\Homework\08. Isosceles Triangle\bin\Debug\_08.Isosceles_Triangle.pdb
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\Homework\08. Isosceles Triangle\obj\Debug\_08.Isosceles_Triangle.exe
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\Homework\08. Isosceles Triangle\obj\Debug\_08.Isosceles_Triangle.pdb

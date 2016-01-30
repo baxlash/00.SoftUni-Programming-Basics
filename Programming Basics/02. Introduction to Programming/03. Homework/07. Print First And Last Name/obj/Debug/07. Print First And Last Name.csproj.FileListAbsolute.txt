@@ -1,5 +1,0 @@
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\07. Print First And Last Name\bin\Debug\_07.Print_First_And_Last_Name.exe.config
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\07. Print First And Last Name\bin\Debug\_07.Print_First_And_Last_Name.exe
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\07. Print First And Last Name\bin\Debug\_07.Print_First_And_Last_Name.pdb
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\07. Print First And Last Name\obj\Debug\_07.Print_First_And_Last_Name.exe
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\07. Print First And Last Name\obj\Debug\_07.Print_First_And_Last_Name.pdb

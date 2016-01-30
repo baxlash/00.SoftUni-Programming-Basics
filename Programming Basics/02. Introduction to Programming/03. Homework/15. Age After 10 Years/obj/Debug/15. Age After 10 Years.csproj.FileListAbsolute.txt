@@ -1,5 +1,0 @@
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\15. Age After 10 Years\bin\Debug\_15.Age_After_10_Years.exe.config
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\15. Age After 10 Years\bin\Debug\_15.Age_After_10_Years.exe
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\15. Age After 10 Years\bin\Debug\_15.Age_After_10_Years.pdb
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\15. Age After 10 Years\obj\Debug\_15.Age_After_10_Years.exe
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\15. Age After 10 Years\obj\Debug\_15.Age_After_10_Years.pdb

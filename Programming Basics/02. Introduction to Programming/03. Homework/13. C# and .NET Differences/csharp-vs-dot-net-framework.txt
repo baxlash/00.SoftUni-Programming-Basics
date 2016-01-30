@@ -1,2 +1,0 @@
-C# is a programming language which is using the .NET Framework.
-In other work C# is a part of .NET together with other programming language that are using the same framework.

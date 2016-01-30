@@ -1,0 +1,5 @@
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\HW 4 - Console IO\04. Number Comparer\bin\Debug\_04.Number_Comparer.exe.config
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\HW 4 - Console IO\04. Number Comparer\bin\Debug\_04.Number_Comparer.exe
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\HW 4 - Console IO\04. Number Comparer\bin\Debug\_04.Number_Comparer.pdb
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\HW 4 - Console IO\04. Number Comparer\obj\Debug\_04.Number_Comparer.exe
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\HW 4 - Console IO\04. Number Comparer\obj\Debug\_04.Number_Comparer.pdb

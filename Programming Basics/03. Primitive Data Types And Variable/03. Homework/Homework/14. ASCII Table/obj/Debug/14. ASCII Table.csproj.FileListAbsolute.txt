@@ -1,5 +1,0 @@
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\Homework\14. ASCII Table\bin\Debug\_14.ASCII_Table.exe.config
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\Homework\14. ASCII Table\bin\Debug\_14.ASCII_Table.exe
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\Homework\14. ASCII Table\bin\Debug\_14.ASCII_Table.pdb
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\Homework\14. ASCII Table\obj\Debug\_14.ASCII_Table.exe
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\Homework\14. ASCII Table\obj\Debug\_14.ASCII_Table.pdb

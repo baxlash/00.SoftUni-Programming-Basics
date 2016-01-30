@@ -1,5 +1,0 @@
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\09. Print A Sequence\bin\Debug\_09.Print_A_Sequence.exe.config
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\09. Print A Sequence\bin\Debug\_09.Print_A_Sequence.exe
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\09. Print A Sequence\bin\Debug\_09.Print_A_Sequence.pdb
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\09. Print A Sequence\obj\Debug\_09.Print_A_Sequence.exe
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\09. Print A Sequence\obj\Debug\_09.Print_A_Sequence.pdb

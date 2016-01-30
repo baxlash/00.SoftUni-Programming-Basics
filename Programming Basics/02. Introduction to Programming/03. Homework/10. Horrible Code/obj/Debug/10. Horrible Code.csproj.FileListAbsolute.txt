@@ -1,5 +1,0 @@
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\10. Horrible Code\bin\Debug\_10.Horrible_Code.exe.config
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\10. Horrible Code\bin\Debug\_10.Horrible_Code.exe
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\10. Horrible Code\bin\Debug\_10.Horrible_Code.pdb
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\10. Horrible Code\obj\Debug\_10.Horrible_Code.exe
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\Homework\Homework 2\10. Horrible Code\obj\Debug\_10.Horrible_Code.pdb

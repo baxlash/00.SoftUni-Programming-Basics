@@ -1,0 +1,1 @@
+C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\02. Exercises\DataTypesExercise\03. Chars and Strings\bin\Debug\_03.Chars_and_Strings.exe.config
