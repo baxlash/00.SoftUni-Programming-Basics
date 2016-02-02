@@ -32,13 +32,5 @@ class Calculation
         }
     }
 
-    //static int pow (int b, int p)
-    //{
-    //    int res = 1;
-    //    for (int i = 1; i <= p; i++)
-    //    {
-    //        res *= b;
-    //    }
-    //    return res;
-    //}
+
 }
