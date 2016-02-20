@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{450D84E1-96EF-45D4-97D7-06A17CBD1336}</ProjectGuid>
+    <ProjectGuid>{F88E0FE8-8305-4A2E-81DC-D518082684AF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_07.Sort_3_Numbers_With_Ifs</RootNamespace>
-    <AssemblyName>_07.Sort_3_Numbers_With_Ifs</AssemblyName>
+    <RootNamespace>_02.Take_the_plane_down</RootNamespace>
+    <AssemblyName>_02.Take_the_plane_down</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SortThreeNumbersWIthNestedIfs.cs" />
+    <Compile Include="TakeThePlaneDown.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
