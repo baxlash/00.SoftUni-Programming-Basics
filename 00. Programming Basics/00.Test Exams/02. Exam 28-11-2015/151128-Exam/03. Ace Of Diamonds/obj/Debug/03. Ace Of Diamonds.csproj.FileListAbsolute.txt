@@ -1,0 +1,6 @@
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151128-Exam\03. Ace Of Diamonds\bin\Debug\_03.Ace_Of_Diamonds.exe.config
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151128-Exam\03. Ace Of Diamonds\bin\Debug\_03.Ace_Of_Diamonds.exe
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151128-Exam\03. Ace Of Diamonds\bin\Debug\_03.Ace_Of_Diamonds.pdb
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151128-Exam\03. Ace Of Diamonds\obj\Debug\03. Ace Of Diamonds.csprojResolveAssemblyReference.cache
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151128-Exam\03. Ace Of Diamonds\obj\Debug\_03.Ace_Of_Diamonds.exe
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151128-Exam\03. Ace Of Diamonds\obj\Debug\_03.Ace_Of_Diamonds.pdb

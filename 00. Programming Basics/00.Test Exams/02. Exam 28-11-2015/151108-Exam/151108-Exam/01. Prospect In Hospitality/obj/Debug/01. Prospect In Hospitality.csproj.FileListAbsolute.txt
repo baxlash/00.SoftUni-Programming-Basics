@@ -1,0 +1,6 @@
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151108-Exam\151108-Exam\01. Prospect In Hospitality\bin\Debug\_01.Prospect_In_Hospitality.exe.config
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151108-Exam\151108-Exam\01. Prospect In Hospitality\bin\Debug\_01.Prospect_In_Hospitality.exe
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151108-Exam\151108-Exam\01. Prospect In Hospitality\bin\Debug\_01.Prospect_In_Hospitality.pdb
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151108-Exam\151108-Exam\01. Prospect In Hospitality\obj\Debug\01. Prospect In Hospitality.csprojResolveAssemblyReference.cache
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151108-Exam\151108-Exam\01. Prospect In Hospitality\obj\Debug\_01.Prospect_In_Hospitality.exe
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151108-Exam\151108-Exam\01. Prospect In Hospitality\obj\Debug\_01.Prospect_In_Hospitality.pdb

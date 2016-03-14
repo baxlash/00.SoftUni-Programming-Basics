@@ -1,0 +1,6 @@
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151128-Exam\02. Take the plane down\bin\Debug\_02.Take_the_plane_down.exe.config
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151128-Exam\02. Take the plane down\bin\Debug\_02.Take_the_plane_down.exe
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151128-Exam\02. Take the plane down\bin\Debug\_02.Take_the_plane_down.pdb
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151128-Exam\02. Take the plane down\obj\Debug\02. Take the plane down.csprojResolveAssemblyReference.cache
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151128-Exam\02. Take the plane down\obj\Debug\_02.Take_the_plane_down.exe
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151128-Exam\02. Take the plane down\obj\Debug\_02.Take_the_plane_down.pdb

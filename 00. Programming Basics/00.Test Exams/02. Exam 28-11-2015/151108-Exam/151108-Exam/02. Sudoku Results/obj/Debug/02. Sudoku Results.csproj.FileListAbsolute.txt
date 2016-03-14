@@ -1,0 +1,5 @@
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151108-Exam\151108-Exam\02. Sudoku Results\bin\Debug\_02.Sudoku_Results.exe.config
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151108-Exam\151108-Exam\02. Sudoku Results\bin\Debug\_02.Sudoku_Results.exe
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151108-Exam\151108-Exam\02. Sudoku Results\bin\Debug\_02.Sudoku_Results.pdb
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151108-Exam\151108-Exam\02. Sudoku Results\obj\Debug\_02.Sudoku_Results.exe
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151108-Exam\151108-Exam\02. Sudoku Results\obj\Debug\_02.Sudoku_Results.pdb

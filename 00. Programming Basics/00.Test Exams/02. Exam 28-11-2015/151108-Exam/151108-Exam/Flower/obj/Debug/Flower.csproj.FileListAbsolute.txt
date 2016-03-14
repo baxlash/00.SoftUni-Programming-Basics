@@ -1,0 +1,6 @@
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151108-Exam\151108-Exam\Flower\bin\Debug\Flower.exe.config
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151108-Exam\151108-Exam\Flower\bin\Debug\Flower.exe
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151108-Exam\151108-Exam\Flower\bin\Debug\Flower.pdb
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151108-Exam\151108-Exam\Flower\obj\Debug\Flower.csprojResolveAssemblyReference.cache
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151108-Exam\151108-Exam\Flower\obj\Debug\Flower.exe
+C:\Users\Baxlash\Documents\GitHub\SoftUni\Programming Basics\00.Test Exams\02. Exam 28-11-2015\151108-Exam\151108-Exam\Flower\obj\Debug\Flower.pdb

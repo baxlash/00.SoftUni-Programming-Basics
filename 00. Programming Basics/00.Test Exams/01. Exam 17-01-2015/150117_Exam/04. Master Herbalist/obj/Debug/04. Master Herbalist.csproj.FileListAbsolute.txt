@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\SoftUni\Programming Basics\00.Test Exams\01. Exam 17-01-2015\150117_Exam\04. Master Herbalist\bin\Debug\_04.Master_Herbalist.exe.config
+C:\Users\Administrator\Documents\SoftUni\Programming Basics\00.Test Exams\01. Exam 17-01-2015\150117_Exam\04. Master Herbalist\bin\Debug\_04.Master_Herbalist.exe
+C:\Users\Administrator\Documents\SoftUni\Programming Basics\00.Test Exams\01. Exam 17-01-2015\150117_Exam\04. Master Herbalist\bin\Debug\_04.Master_Herbalist.pdb
+C:\Users\Administrator\Documents\SoftUni\Programming Basics\00.Test Exams\01. Exam 17-01-2015\150117_Exam\04. Master Herbalist\obj\Debug\04. Master Herbalist.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\SoftUni\Programming Basics\00.Test Exams\01. Exam 17-01-2015\150117_Exam\04. Master Herbalist\obj\Debug\_04.Master_Herbalist.exe
+C:\Users\Administrator\Documents\SoftUni\Programming Basics\00.Test Exams\01. Exam 17-01-2015\150117_Exam\04. Master Herbalist\obj\Debug\_04.Master_Herbalist.pdb
