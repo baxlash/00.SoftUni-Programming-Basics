@@ -1,6 +1,0 @@
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\HW 4 - Console IO\03. Circle Maths\bin\Debug\_03.Circle_Maths.exe.config
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\HW 4 - Console IO\03. Circle Maths\bin\Debug\_03.Circle_Maths.exe
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\HW 4 - Console IO\03. Circle Maths\bin\Debug\_03.Circle_Maths.pdb
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\HW 4 - Console IO\03. Circle Maths\obj\Debug\03. Circle Maths.csprojResolveAssemblyReference.cache
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\HW 4 - Console IO\03. Circle Maths\obj\Debug\_03.Circle_Maths.exe
-C:\Users\Dimitrov\Documents\Soft Uni\Programming Basics\03. Primitive Data Types And Variable\03. Homework\HW 4 - Console IO\03. Circle Maths\obj\Debug\_03.Circle_Maths.pdb
