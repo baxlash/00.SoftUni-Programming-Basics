@@ -1,16 +1,28 @@
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class GetAverage {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-		float num1 = scan.nextFloat();
-		float num2 = scan.nextFloat();
-		float num3 = scan.nextFloat();
+		String str = scan.nextLine();
+		String[] splitted = str.split(" ");
+		List<Float> input =  new ArrayList<Float>();
+		for (int i = 0; i < splitted.length; i++) {
+			input.add(Float.parseFloat(splitted[i]));
+		}
 		scan.close();
 		
-		System.out.println(String.format("%.2f", average(num1, num2, num3)));
+		System.out.println(String.format("%.2f", average(input)));
 	}
-	public static float average(float fl1, float fl2, float fl3){
-		return ((fl1+fl2+fl3)/3);
+	
+	public static float average(List<Float> numbers){
+		float result=0;
+		for (Float number : numbers) {
+			result +=number;
+		}
+		result/=numbers.size();
+		
+		return result;
 	}
 }
